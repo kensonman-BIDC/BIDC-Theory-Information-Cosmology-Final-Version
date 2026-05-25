@@ -1,0 +1,103 @@
+# 五大公理
+# Five Axioms
+
+BIDC 理論建立在以下五個自明的公理之上，這些公理源自對自然的直接觀察，並通過邏輯推導形成完整框架。
+BIDC Theory is built upon the following five self-evident axioms, derived from direct observation of nature and forming a complete framework through logical deduction.
+
+
+其中 P_learn 是**學習算子**，從舊經驗中提取成功模式。
+Where P_learn is the **learning operator** that extracts successful patterns from old experience.
+
+---
+
+## 公理間的邏輯關係
+## Logical Relationships Between Axioms
+
+1. **公理1 → 公理2**: 有本體才有投射 | With entity comes projection
+2. **公理2 → 公理3**: 投射產生震頻，震頻決定物質 | Projection creates vibrations, vibrations determine matter
+3. **公理3 → 公理4**: 物質環境中湧現生命 | Life emerges in material environment
+4. **公理4 → 公理5**: 生命蒸餾經驗觸發相變 | Life's distilled experience triggers phase transition
+5. **公理5 → 公理1**: 相變更新本體狀態 | Phase transition updates entity state
+
+**形成邏輯閉環 | Forms a logical closed loop.**
+
+
+**相變後的新拉格朗日量 | Post-Phase Transition Lagrangian:**
+
+
+其中 D̂ 是維度投射算子，D̂† 是經驗回饋算子。
+Where D̂ is the dimension projection operator, D̂† is the experience feedback operator.
+
+---
+
+其中 V[φ] 是與投射流場的耦合勢，代表生命從環境中提取資訊。
+Where V[φ] is the coupling potential with the projection flow field, representing life's extraction of information from the environment.
+
+---
+
+## 公理 5：迭代精煉循環
+## Axiom 5: Iterative Refinement Cycle
+
+> 當 Ω 吸收的經驗達到臨界值，觸發**相變**，重啟新一輪宇宙，且新宇宙的物理定律更優化。
+> When the experience absorbed by Ω reaches a critical value, a **phase transition** is triggered, restarting a new cycle of the universe, with the new universe's physical laws being more optimized.
+
+**觸發條件 | Trigger Condition:**
+
+
+
+## 公理 3：震頻-物質對應原理
+## Axiom 3: Vibration-Matter Correspondence Principle
+
+> 物質是**成功交匯的投射流**，暗物質是**未成功交匯的投射流**。
+> Matter is **successfully converged projection flow**; dark matter is **unsuccessfully converged projection flow**.
+
+**數學定義 | Mathematical Definition:**
+- 投射流場: φ(x⃗,t) = A(x⃗,t)e^{iθ(x⃗,t)} | Projection flow field
+- 成功交匯（物質）: Δθ < θ_c 且相位鎖定 | Successful convergence (matter): Δθ < θ_c and phase-locked
+- 未成功交匯（暗物質）: Δθ > θ_c 或相位未鎖定 | Unsuccessful convergence (dark matter): Δθ > θ_c or not phase-locked
+
+其中 θ_c 是臨界相位差，由 k_c = 0.6556 決定。
+Where θ_c is the critical phase difference, determined by k_c = 0.6556.
+
+---
+
+## 公理 4：生命作為資訊蒸餾器
+## Axiom 4: Life as Information Distiller
+
+> 生命系統是能夠將環境噪聲（高熵）轉化為有序資訊（低熵）的**自組織結構**。
+> Life systems are **self-organizing structures** capable of converting environmental noise (high entropy) into ordered information (low entropy).
+
+**數學模型 | Mathematical Model:**
+生命密度 ψ(x⃗,t) 的演化方程：
+Evolution equation for life density ψ(x⃗,t):
+
+
+---
+
+## 公理 1：本體實在性
+## Axiom 1: Ontological Reality
+
+> 存在唯一真實實體 Ω，是一個**高維全息相位場**，其狀態由復數波函數描述。
+> There exists a single real entity Ω, which is a **high-dimensional holographic phase field**, whose state is described by a complex wave function.
+
+**數學表述 | Mathematical Formulation:**
+其中 S_Ω 是 Ω 的**經驗熵**，隨精煉過程單調下降。
+Where S_Ω is the **experiential entropy** of Ω, which monotonically decreases through the refinement process.
+
+**自然觀察對應 | Corresponding Natural Observation:**
+- 宇宙呈現整體統一性 | The universe exhibits global unity
+- 物理定律在所有地方一致 | Physical laws are consistent everywhere
+- 資訊守恆 | Information is conserved
+
+---
+
+## 公理 2：雙向投射原理
+## Axiom 2: Bidirectional Projection Principle
+
+> Ω 與低維宇宙之間存在**即時的雙向資訊流**：
+> There exists **instantaneous bidirectional information flow** between Ω and the lower-dimensional universe:
+
+- **下行流 | Downward Flow**: Ω → 宇宙（投射物理定律與初始條件）| Ω → Universe (projects physical laws and initial conditions)
+- **上行流 | Upward Flow**: 宇宙 → Ω（回饋精煉經驗）| Universe → Ω (feedback refined experience)
+
+**數學表述 | Mathematical Formulation:**
